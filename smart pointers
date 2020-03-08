@@ -1,0 +1,1 @@
+If memory is allocated by keyword "new", it must be deleted by keyword "delete". If we forget the manual deletion or the point of execution does not reach (like early return in a function), memory gets leaked. 
